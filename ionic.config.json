@@ -1,5 +1,7 @@
 {
   "name": "ionic-csvdata",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
